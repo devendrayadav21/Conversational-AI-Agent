@@ -1,13 +1,16 @@
 ---
-title: LangChain Chat With Search
-emoji: 🔎
-colorFrom: orange
+title: Conversational AI Agent
+emoji: 🚀
+colorFrom: gray
 colorTo: red
 sdk: streamlit
-sdk_version: 1.43.2
+sdk_version: 6.8.0
 app_file: app.py
 pinned: false
+license: apache-2.0
+short_description: Conversation chatbot with AI Agent
 ---
+
 
 # 🔎 LangChain - Chat with Search
 
